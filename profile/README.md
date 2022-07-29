@@ -221,7 +221,7 @@
 
 | [조예인🔰](https://github.com/ohyein00) | [장원배](https://github.com/calvin9150) |
 | :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/90380269/181731418-725c924f-b1c0-42cf-9a98-e3aa40e73e6c.jpeg" alt="조예인" width="150px"/> |  <img src="https://user-images.githubusercontent.com/90380269/181731474-b263b4b7-9503-4557-81a9-81bbfd3b20c6.jpeg" alt="장원배" width="150px"/> |
+| <img src="https://user-images.githubusercontent.com/90380269/181731418-725c924f-b1c0-42cf-9a98-e3aa40e73e6c.jpeg" alt="조예인" width="150px"/> | <img src="https://user-images.githubusercontent.com/90380269/181731474-b263b4b7-9503-4557-81a9-81bbfd3b20c6.jpeg" alt="장원배" width="150px"/> |
 | `Frontend` | `Frontend` |
 
 
@@ -229,6 +229,7 @@
 
 | 김운지 | 채가온 | 
 | :---: | :---: |
+| <img src="https://user-images.githubusercontent.com/90380269/181741859-38e29928-1a50-4551-8da0-333e7e62df1f.png" alt="김운지" width="150px"/> | <img src="https://user-images.githubusercontent.com/90380269/181741511-da6e991f-82fd-418f-82db-10ddb873f8cd.png" alt="채가온" width="150px"/> |
 | `Designer` | `Designer` |
 
 <br>
@@ -238,4 +239,5 @@
 [Frontend Repository](https://github.com/MeongPanNyaengPan-MPNP/Baechelin_FrontEnd)
     
 [Wireframe](https://www.figma.com/file/aF7QJBqYXhmOhmCUq8NY4s/4%EC%A1%B0-wireframe?node-id=0%3A1)
+
 
