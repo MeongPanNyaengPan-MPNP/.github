@@ -120,18 +120,15 @@
 ### backEnd
 
 <p>
-<img src="https://img.shields.io/badge/Java-0169B4?style=for-the-badge&logo=java&logoColor=white" height="25" /> 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" height="25" />
 
 <br>
 
 <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github actions&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/codeDeploy-0169B4?style=for-the-badge&logo=codeDeploy&logoColor=whit" height="25" />
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" height="25" />
 
 <br>
 <br>
@@ -141,45 +138,43 @@
 <img src="https://img.shields.io/badge/OAUTH2.0-000000?style=for-the-badge&logo=OAuth2.0&logoColor=white" height="25" />
 
 <br>
-
-<img src="https://img.shields.io/badge/Spring Data Jpa-6DB33F?style=for-the-badge&logo=Hibernate&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" height="25" />
+    
+<img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" height="25" />    
 <img src="https://img.shields.io/badge/WebClient-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/QueryDsl-0082C4?style=for-the-badge&logo=Hibernate&logoColor=white" height="25" />
 <img src="https://img.shields.io/badge/Jsoup-0169B4?style=for-the-badge&logo=Java&logoColor=white" height="25" />
+    
+<br>
+    
+<img src="https://img.shields.io/badge/Spring data JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Query DSL-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" height="25" />
 
 <br>
 
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" height="25" />
-<img src="https://img.shields.io/badge/Lombok-A93821?style=for-the-badge&logo=Lombok&logoColor=white" height="25" />
-
-<br>
-
 <img src="https://img.shields.io/badge/Public API-2393F3?style=for-the-badge&logo=Public API&logoColor=white" height="25" />
-<img src="https://img.shields.io/badge/Kakao Map API-FFCD00?style=for-the-badge&logo=Kakao&logoColor=black" height="25" />
-
-
-<br>
+<img src="https://img.shields.io/badge/Kakao Map API-FFCD00?style=for-the-badge&logo=Kakao&logoColor=black" height="25" /> 
+    
 </p>
 
 ### frontEnd
 
 <p>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+      <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
-  <br>
+    
+<br>
+    
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
-  <img src="https://img.shields.io/badge/socket.io-ffffff?style=for-the-badge&logo=socket.io&logoColor=black">
+  <img src="https://img.shields.io/badge/Axios-3968DC?style=for-the-badge&logo=Axios&logoColor=white">
 <br>
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/CloudFront-D05C4B?style=for-the-badge&logo=Amazon AWS&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+    
+<br>
+    
+<img src="https://img.shields.io/badge/Kakao Map API-FFCD00?style=for-the-badge&logo=Kakao&logoColor=black" height="25" /> 
 </p>
 
 
@@ -213,9 +208,18 @@
 
 팀 멍판냥판 개발진들🧡
 
+<Br>
 
-| [진유진🔰](https://github.com/Anna-Jin) | [김선현](https://github.com/kokoa322) | [정소이](https://github.com/JSoi) | [조예인](https://github.com/ohyein00) | [장원배](https://github.com/calvin9150) |                                                                                                            
-| :---------------------------------: | :----------------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------: |
-| <img src="https://user-images.githubusercontent.com/90380269/181585474-b7ada727-4aaa-4927-a454-930444843181.png" alt="진유진" width="150px"/> |  <img src="https://user-images.githubusercontent.com/90380269/181602434-5e127654-d9cf-4844-b6b2-2472bf4b482d.png" alt="김선현 프로필 이미지" width="150px"/> | <img src="https://user-images.githubusercontent.com/90380269/181602162-ae2d42f0-c53d-4351-afb8-22aca69e5bac.jpeg" alt="정소이" width="150px"/> | <img src="https://user-images.githubusercontent.com/90380269/181602862-c97d844d-adbb-455c-9aed-f43c4d5eee03.jpeg" alt="조예인" width="150px"/> | <img src="https://user-images.githubusercontent.com/90380269/181603331-bcd3fe9c-11fa-4f3b-ad89-4ffc6be7687d.jpeg" alt="장원배" width="150px"/> |
-| `Backend`<br>`Leader` | `Backend` | `Backend` | `Frontend`<br>`Sub Leader` | `Frontend` |
+| [진유진🔰](https://github.com/Anna-Jin) | [김선현](https://github.com/kokoa322) | [정소이](https://github.com/JSoi) | [조예인🔰](https://github.com/ohyein00) | [장원배](https://github.com/calvin9150) | 김운지 | 채가온 |                                                                                                   
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| `Backend` | `Backend` | `Backend` | `Frontend` | `Frontend` | `Designer` | `Designer` |
+
+
+<br>
+ 
+[Backend Repository](https://github.com/MeongPanNyaengPan-MPNP/Baechelin_BackEnd)
+    
+[Frontend Repository](https://github.com/MeongPanNyaengPan-MPNP/Baechelin_FrontEnd)
+    
+[Wireframe](https://www.figma.com/file/aF7QJBqYXhmOhmCUq8NY4s/4%EC%A1%B0-wireframe?node-id=0%3A1)
 
