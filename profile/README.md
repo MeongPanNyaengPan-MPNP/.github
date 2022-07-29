@@ -210,6 +210,9 @@
 - 소셜 계정 연동
 - 프로필 수정
 
+<br>
+<br>
+
 
 ![Line 1](https://user-images.githubusercontent.com/90380269/181489532-4bbb5041-8de1-4ac9-89b2-9400e577ddd2.png)
 
