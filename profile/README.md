@@ -210,10 +210,26 @@
 
 <Br>
 
-| [진유진🔰](https://github.com/Anna-Jin) | [김선현](https://github.com/kokoa322) | [정소이](https://github.com/JSoi) | [조예인🔰](https://github.com/ohyein00) | [장원배](https://github.com/calvin9150) | 김운지 | 채가온 |                                                                                                   
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| `Backend` | `Backend` | `Backend` | `Frontend` | `Frontend` | `Designer` | `Designer` |
+### Backend
 
+| [진유진🔰](https://github.com/Anna-Jin) | [김선현](https://github.com/kokoa322) | [정소이](https://github.com/JSoi) |                                       
+| :---: | :---: | :---: |
+| <img src="https://user-images.githubusercontent.com/90380269/181727981-603a62e6-bc9d-4b69-ae87-5bf876bbc1c8.png" alt="진유진" width="150px"/> |  <img src="https://user-images.githubusercontent.com/90380269/181737024-7c476a43-c276-4d99-b756-8bfc14d189a1.jpeg" alt="김선현" width="150px"/> | <img src="https://user-images.githubusercontent.com/90380269/181737602-f12730e5-9997-4063-acb6-47d2d3c9f696.png" alt="정소이" width="150px" /> |
+| `Backend` | `Backend` | `Backend` |
+
+### Frontend
+
+| [조예인🔰](https://github.com/ohyein00) | [장원배](https://github.com/calvin9150) |
+| :---: | :---: |
+| <img src="https://user-images.githubusercontent.com/90380269/181731418-725c924f-b1c0-42cf-9a98-e3aa40e73e6c.jpeg" alt="조예인" width="150px"/> |  <img src="https://user-images.githubusercontent.com/90380269/181731474-b263b4b7-9503-4557-81a9-81bbfd3b20c6.jpeg" alt="장원배" width="150px"/> |
+| `Frontend` | `Frontend` |
+
+
+### Designer
+
+| 김운지 | 채가온 | 
+| :---: | :---: |
+| `Designer` | `Designer` |
 
 <br>
  
