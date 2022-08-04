@@ -184,7 +184,8 @@
 
 ### Service Architecture
 
-<img width="2343" alt="MPNP Architecture" src="https://user-images.githubusercontent.com/90380269/181498046-80e24864-074e-4b41-a561-db9183989d29.png">
+<img width="2228" alt="MPNP Architecture" src="https://user-images.githubusercontent.com/90380269/182749204-cb9c5e3f-4731-4241-8ab2-d51e4836a3c2.png"
+
 
 <br>
 
